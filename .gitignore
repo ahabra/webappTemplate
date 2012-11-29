@@ -1,0 +1,21 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# grunt generated
+_SpecRunner.html
+node_modules/
+
+# maven
+target/
+
+# eclipse
+.classpath
+.project
+.settings/
